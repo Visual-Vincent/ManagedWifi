@@ -1,5 +1,5 @@
 # ManagedWifi
-Original Managed Wifi API (ManagedWifi) library from the CodePlex archives.
+Original Managed Wifi API library (_ManagedWifi_) directly from the CodePlex archives: https://archive.codeplex.com/?p=managedwifi
 
 All credit goes to the original author.
 
